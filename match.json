@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Champions Cup",
+    "date": "2026-05-06 21:00",
+    "image": "https://i.ibb.co/4Rr8LMcb/image.png",
+    "link": "tournament1.php"
+  },
+  {
+    "name": "Pro League",
+    "date": "2026-05-07 20:00",
+    "image": "https://i.ibb.co/4Rr8LMcb/image.png",
+    "link": "tournament2.php"
+  }
+]
